@@ -1,0 +1,3 @@
+# Put application + profile specific config here (application name: config-client-app)
+some.property=profile specific value
+some.other.property=profile specific value
